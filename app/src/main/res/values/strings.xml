@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">Hello Android</string>
+    <string name="text">I LOVE JAV</string>
     <string name="to">To</string>
     <string name="subject">Subject</string>
     <string name="message">Message</string>
     <string name="send">Send</string>
+    <string name="copy">copy</string>
+    <string name="search">search</string>
+    <string name="refresh">refresh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
